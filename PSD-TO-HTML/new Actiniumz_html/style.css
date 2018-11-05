@@ -1,0 +1,295 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	width:100%;
+	background:#fff;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.clear{
+	clear:both;
+}
+
+
+/************************************
+			  header
+*************************************/
+header{
+	width:100%;
+	height:110px;
+	background:#33A6B2;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.icon{
+	width:100%;
+}
+.icon img{
+	float:right;
+	padding:10px;
+}
+.logo1{
+	width:50%;
+	float:left;
+}
+.logo1 h1{
+	color:#fff;
+	margin-top:40px;
+	font-size:40px;
+}
+.menu{
+	width:50%;
+	float:right;
+}
+.menu ul{
+	float:right;
+	list-style:none;
+}
+.menu ul li{
+	float:left;
+}
+.menu ul li a{
+	padding:10px 20px;
+	line-height:60px;
+	text-decoration:none;
+	color:#fff;
+}
+.menu ul li a:hover{
+	background:#C7E13E;
+	border-radius:10px 10px 10px 10px;
+	color:#000000;
+}
+
+.desktop_menu{
+	display:block;
+}
+.mobile_menu{
+	display:none;
+}
+.zigzag{
+	background:url(img/header_zigzag.jpg) repeat-x;
+	height:23px;
+}
+.clear{
+	clear:both;
+}
+/************************************
+			  header
+*************************************/
+
+
+/************************************
+			  slider
+*************************************/
+.slider_area{
+	width:100%;
+	background:url(img/bg.jpg);
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.slider img{
+	width:100%;
+	margin-top:10px;
+}
+
+/************************************
+			  slider
+*************************************/
+
+
+/************************************
+			  content
+*************************************/
+.content_zigzag_top{
+	background:url(img/top_green.png) repeat-x;
+	height:14px;
+}
+.content_area{
+	width:100%;
+	height:150px;
+	background:#9AC836;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.content{
+	width:23%;
+	float:left;
+	padding-right:20px;
+	text-align:center;
+	background:url(img/content_bg.png)no-repeat right center;
+}
+.content img{
+	float:left;
+	margin-top:10px;
+}
+.content p{
+	margin-top:10px;
+	color:#fff;
+}
+.content h2{
+	margin-top:10px;
+	margin-right:70px;
+	color:#fff;
+}
+.no_bg{
+	background:none;
+}
+.content_zigzag_bottom{
+	width:100%;
+	height:14px;
+	background:url(img/bottom_green.png) repeat-x;
+}
+/************************************
+			  content
+*************************************/
+
+
+
+/************************************
+		content area two
+*************************************/
+.content_area_two{
+	width:100%;
+	height:275px;
+	background:#19747D;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.content_A2 h1{
+	padding-top:30px;
+}
+.contant_A1{
+	width:20%;
+	float:left;
+}
+.content_A2 img{
+	margin-top:25px;
+	padding:0px;
+	border:10px solid #fff;
+}
+.content_zigzag_bottom_2{
+	height:18px;
+	background:url(img/content_bottom2.jpg) repeat-x;
+}
+/************************************
+		content area two
+*************************************/
+
+
+/************************************
+		content area three
+*************************************/
+.content_area_three{
+	width:100%;
+	height:310px;
+	background:url(img/bg.jpg);
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.content_B2{
+	width:30%;
+	float:left;
+}
+.blogroll{
+	width:15%;
+	float:left;
+}
+.blogroll_right{
+	float:right;
+	margin-right:40px;
+}
+.blogroll h1{
+	padding-top:20px;
+}
+.blogroll p{
+	line-height:30px;
+	
+}
+.mar{
+	margin-top:20px;
+}
+.content_B2 p{
+	background:url(img/list_icon.png)no-repeat left center;
+	padding-left:15px;
+}
+.content_B2_right{
+	width:60%;
+	float:right;
+}
+.post{
+	margin-top:20px;
+	margin-left:32px;
+}
+.imeges{
+	width:32%;
+	float:left;	
+}
+.imeges img{
+	border:10px solid #fff;
+	margin-top:30px;
+}
+
+
+
+/************************************
+		content area three
+*************************************/
+
+
+
+
+
+/************************************
+			footer
+*************************************/
+
+footer{
+	width:100%;
+	height:50px;
+	background:#8D95A7;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.footer_left{
+	width:50%;
+	float:left;
+}
+.footer_right{
+	width:50%;
+	float:right;
+}
+.footer_area p{
+	margin-top:15px;
+}
+.footer_right p{
+	float:right;
+}
+
+/************************************
+			footer
+*************************************/
+
+
+
+
+
+
+
+
+

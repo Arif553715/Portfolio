@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.our_header{
+    background: url(img/banar.......jpg);
+    height: 500px;
+    
+}
+.logo{
+    margin-top: 20px;
+}
+.logo img{
+    max-width: 40px;
+    height: auto;
+}
+.logo p{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+.our_navbar{
+    float: right;
+    background: none !important;
+    border: none !important;
+    margin-top: 20px;
+}
+
+.our_navbar .navbar-nav li a{
+    padding-top: 26px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.our_navbar .navbar-nav li:hover{
+    color: #fff;
+}
+.menu{
+   height: 70px;
+}
+
+/**** End menu ****/
+
+.Our_story{
+    height: 300px;
+    margin-top: 40px;
+}
+.button{
+	color:#FFF;
+	padding:10px;
+}
+
+.Ourmar_story h1{
+    margin-left: 10px;
+}
+
+.experties{
+    text-align: center;
+} 
+
+.icon_part{
+    height: 200px;
+    margin-top: 40px;
+}
+.icon1{
+    text-align: center;
+    margin-top: 30px;
+}
+.icon1 h1{
+    font-size: 20px;
+}
+
+.icon2{
+    text-align: center;
+}
+.icon2 h1{
+    font-size: 20px;
+}
+
+.icon3{
+    text-align: center;
+}
+.icon3 h1{
+    font-size: 20px;
+}
+
+.footer{
+    background: url(img/footer.jpg);
+    height: 400px;
+    margin-top: 30px;
+}
+
+.icon_bar{
+    margin-top: 60px;
+}
+.icon_bar img{
+    width: 30px;
+    height: 30px;
+}
+.icon_bar h1{
+    color: aliceblue;
+}
+.icon_bar p{
+    color: #fff;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.icon_bar h5{
+    color: #fff;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.Our_studio{
+   color: #fff;
+    text-align: justify;
+    margin-top: 60px;
+}
+
+
+
+
+
